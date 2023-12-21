@@ -1,11 +1,11 @@
 # **Instalacja pakietów**
 
-1. Wpisz w terminalu po kolei następujące komendy:
+* Wpisz w terminalu po kolei następujące komendy:
 
 ```$ npm init```
 
 ```$ npm install discord.js```
 
-2. Następnie zainstaluj pakiet: `anti-swear-words-packages-discord`
+* Następnie zainstaluj pakiet: `anti-swear-words-packages-discord`
    
 ```$ npm install anti-swear-words-packages-discord```
