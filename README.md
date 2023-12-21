@@ -1,4 +1,4 @@
-**Instalacja pakietów:**
+# **Instalacja pakietów:**
 
 1. Wpisz w terminalu po kolei następujące komendy:
 
