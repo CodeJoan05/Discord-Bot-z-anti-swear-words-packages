@@ -16,6 +16,14 @@ npm install discord.js
 npm install anti-swear-words-packages-discord
 ```
 
+# Plik config.json
+
+``` javascript
+{
+    "token": "tu_wklej_token_bota"
+}
+```
+
 # Uruchomienie bota
 
 * Wpisz w terminalu tę komendę:
